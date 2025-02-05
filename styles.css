@@ -1,0 +1,88 @@
+.Heading{
+    height: 300px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(152, 248, 235);
+}
+.h{
+    height: 250px;
+    width: 1000px;
+    background-color: rgb(214, 106, 18);
+}
+.logo{
+    float: left;
+}
+.name{
+    height: 250px;
+    width: 700px;
+    float: right;
+}
+.n{
+    position: relative;
+    top: 100px;
+    left: 250px;
+    font-size: 40px;
+}
+.menu{
+    height: 50px;
+    width: 1000px;
+    float: left;
+    background-color: deepskyblue;
+}
+.menu ul li{
+    display: inline;
+    padding: 120px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.contactdetails{
+    margin-left: auto;
+    margin-right: auto;
+    height: 1000px;
+    width: 1000px;
+    background-image: url('https://cdn-icons-png.flaticon.com/512/5995/5995295.png');
+    background-size: cover;
+}
+.details{
+    position: relative;
+    top:100px;
+    left:380px;
+    font-size: 40px;
+}
+.contact{
+    position: relative;
+    top: 200px;
+    left: 300px;
+    font-size: 30px;
+}
+.about{
+    margin-left: auto;
+    margin-right: auto;
+    height: 1000px;
+    width: 1000px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5KoLdZqTl2EN7Q-ks3VFAFRiemYA7QOQUuA&s');
+    background-size: cover;
+}
+.aboutme{
+    position: relative;
+    top:0px;
+    left:30px;
+    font-size: 40px;
+}
+.aboutmeof{
+    position: relative;
+    top:100px;
+    left:380px;
+    font-size: 40px;
+}
+.detailsabout{
+    position: relative;
+    top: 200px;
+    left: 250px;
+    font-size: 30px;
+}
